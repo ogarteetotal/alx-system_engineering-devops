@@ -1,2 +1,2 @@
 #!/bin/bash
-
+chmod '[ugoa]*([-+=]([rwxXst]*|[ugo]))+|[-+=][0-7]+'.
