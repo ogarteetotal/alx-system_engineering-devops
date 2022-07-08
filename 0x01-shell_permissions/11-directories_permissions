@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -F a+x hello
+chmod -f ugo=x .
