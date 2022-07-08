@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod %f 644 .
+chmod -type f a+x 
